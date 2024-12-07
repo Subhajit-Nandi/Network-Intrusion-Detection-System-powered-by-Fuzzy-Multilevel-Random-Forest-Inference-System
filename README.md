@@ -65,9 +65,9 @@ The system achieves high detection accuracy on standard intrusion detection data
 ---
 
 ## **References**
-- [Fuzzy Logic Systems](https://example.com/fuzzy)
-- [Random Forest Classifier](https://example.com/randomforest)
-- [Network Intrusion Detection](https://example.com/ids)
+- [Fuzzy Logic Systems](https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_fuzzy_logic_systems.htm)
+- [Random Forest Classifier](https://scikit-learn.org/1.5/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+- [Network Intrusion Detection](https://www.researchgate.net/publication/369190552_A_Multi-level_Random_Forest_Model-Based_Intrusion_Detection_Using_Fuzzy_Inference_System_for_Internet_of_Things_Networks)
 
 ---
 
