@@ -71,8 +71,7 @@ The system achieves high detection accuracy on standard intrusion detection data
 
 ---
 
-## **Contributing**
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements.
-
+## **Contributions**
+- Prem-Saha :- https://github.com/Prem-Saha
 ---
 
